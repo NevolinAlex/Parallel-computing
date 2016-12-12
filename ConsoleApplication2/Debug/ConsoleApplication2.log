@@ -1,0 +1,15 @@
+﻿  ConsoleApplication2.cpp
+c:\users\alex nevolinf\desktop\c#\lukach\consoleapplication2\consoleapplication2\consoleapplication2.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex nevolinf\desktop\c#\lukach\consoleapplication2\consoleapplication2\consoleapplication2.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex nevolinf\desktop\c#\lukach\consoleapplication2\consoleapplication2\consoleapplication2.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex nevolinf\desktop\c#\lukach\consoleapplication2\consoleapplication2\consoleapplication2.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex nevolinf\desktop\c#\lukach\consoleapplication2\consoleapplication2\consoleapplication2.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex nevolinf\desktop\c#\lukach\consoleapplication2\consoleapplication2\consoleapplication2.cpp(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex nevolinf\desktop\c#\lukach\consoleapplication2\consoleapplication2\consoleapplication2.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex nevolinf\desktop\c#\lukach\consoleapplication2\consoleapplication2\consoleapplication2.cpp(57): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\alex nevolinf\desktop\c#\lukach\consoleapplication2\consoleapplication2\consoleapplication2.cpp(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex nevolinf\desktop\c#\lukach\consoleapplication2\consoleapplication2\consoleapplication2.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex nevolinf\desktop\c#\lukach\consoleapplication2\consoleapplication2\consoleapplication2.cpp(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex nevolinf\desktop\c#\lukach\consoleapplication2\consoleapplication2\consoleapplication2.cpp(71): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication2.vcxproj -> C:\Users\Alex Nevolinf\Desktop\C#\Lukach\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> C:\Users\Alex Nevolinf\Desktop\C#\Lukach\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)
